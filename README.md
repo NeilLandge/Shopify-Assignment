@@ -95,7 +95,7 @@ shopify-product-page/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/shopify-product-page.git
+   git clone https://github.com/NeilLandge/Shopify-Assignment.git
    ```
 2. **Navigate to the project folder**
    ```bash
